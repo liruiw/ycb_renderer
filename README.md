@@ -29,7 +29,7 @@ and setup paths.
 
  
 ## Example
-Run ```./download_data.sh``` in the root directory of the OMG package to download necessary data.
+Run ```./download_data.sh``` in the root directory of the [OMG](https://github.com/liruiw/OMG-Planner) package to download necessary data.
 
 `python ycb_renderer.py ycb` for rendering YCB objects
 
